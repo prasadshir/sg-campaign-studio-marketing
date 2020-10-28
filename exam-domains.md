@@ -5,15 +5,7 @@
 Note: This exam Blueprint includes topics/domains and test objectives to help guide the test taker. They should not be construed as a comprehensive listing of all of the content on this examination.
 ****
 
-| **Domain** | **% of Questions** |
-| :--- | :--- |
-| 1.0 Fundamental Personalization Concepts | 10% |
-| 2.0 Installation and Initial Configuration | 20% |
-| 3.0 Profile Manager / Campaign Builder | 50% |
-| 4.0 Experience Builder / Visual Editor | 20% |
-| TOTAL | 100% |
-
-| **Domain** | **Number  of Questions** |
+| **Domain** | **Number of Questions** |
 | :--- | :--- |
 | 1.0 Instance Configuration | 4 |
 | 2.0 Data Management | 8

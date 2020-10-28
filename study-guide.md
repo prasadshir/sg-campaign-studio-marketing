@@ -1,97 +1,47 @@
 # Study Guide
 
-### Domain 1.0 Fundamental Personalization Concepts 
+## Section 1.0 Instance Configuration
 
-#### 1.1 - Demonstrate understanding of fundamental concepts of website personalization 
+### 1.1 Demonstrate knowledge of basic setup requirements for a Campaign Studio instance
 
-| Title | Link |
-| :--- | :--- |
-| Using campaigns in Acquia Personalization | [https://docs.acquia.com/lift/personalize/campaigns/](https://docs.acquia.com/lift/personalize/campaigns/) |
-| Creating and managing segments | [https://docs.acquia.com/lift/personalize/segment/](https://docs.acquia.com/lift/personalize/segment/) |
-| Creating and managing events | [https://docs.acquia.com/lift/profile-mgr/event/](https://docs.acquia.com/lift/profile-mgr/event/) \(see also Goals\) |
-| Creating and managing goals | [https://docs.acquia.com/lift/personalize/goals/](https://docs.acquia.com/lift/personalize/goals/) |
-| Creating personalized slots | [https://docs.acquia.com/lift/personalize/campaigns/building-experiences/creating-slots/](https://docs.acquia.com/lift/personalize/campaigns/building-experiences/creating-slots/) |
-| Acquia Personalization Glossary | [https://docs.acquia.com/lift/glossary/](https://docs.acquia.com/lift/glossary/) |
+## Section 2.0 Data Management
 
-#### 1.2 - Demonstrate understanding of benefits and limitations of personalization 
+### 2.1 Demonstrate ability to maintain clean lists
 
-| Title | Link |
-| :--- | :--- |
-| Personalize Drupal with Acquia Personalization | [https://www.acquia.com/blog/better-together-how-acquia-and-drupal-take-personalization-next-level](https://www.acquia.com/blog/better-together-how-acquia-and-drupal-take-personalization-next-level) |
-| Acquia's Approach to Personalization | [https://dev.acquia.com/blog/acquias-approach-personalization](https://dev.acquia.com/blog/acquias-approach-personalization) |
+### 2.2 Demonstrate knowledge of data tables
 
-### Domain 2.0 Installation and initial Configuration 
+### 2.3 Demonstrate ability to build segments
 
-#### 2.1 - Demonstrate ability to install Content Hub and ensure content readiness for personalization 
+## Section 3.0 Content, Components and Channels
 
-| Title | Link |
-| :--- | :--- |
-| Installing Content Hub | [https://docs.acquia.com/lift/contenthub/install/](https://docs.acquia.com/lift/contenthub/install/) |
-| Sharing content \(Content Hub 1.x\) | [https://docs.acquia.com/lift/contenthub/sharing/](https://docs.acquia.com/lift/contenthub/sharing/) |
-| Discovering content \(Content Hub 1.x\) | [https://docs.acquia.com/lift/contenthub/discover/](https://docs.acquia.com/lift/contenthub/discover/) |
+### 3.1 Demonstrate knowledge of assets
 
-#### 2.2 - Demonstrate ability to install Personalization and setup data collection 
+### 3.2 Demonstrate knowledge of forms
 
-| Title | Link |
-| :--- | :--- |
-| Installing Acquia Personalization | [https://docs.acquia.com/lift/install/](https://docs.acquia.com/lift/install/) |
+### 3.3 Demonstrate knowledge of landing pages
 
-#### 2.3 - Demonstrate understanding of architectural considerations for third party integrations 
+### 3.4 Demonstrate ability to build effective & deliverable emails
 
-| Title | Link |
-| :--- | :--- |
-| Using connectors for Acquia Personalization | [https://docs.acquia.com/lift/connectors/](https://docs.acquia.com/lift/connectors/) |
-| Using the Acquia Personalization APIs | [https://docs.acquia.com/lift/api/](https://docs.acquia.com/lift/api/) |
+### 3.5 Demonstrate knowledge of other channels usable with Campaign Studio
 
-### Domain 3.0 Profile Manager / Campaign Builder 
+## Section 4.0 Campaigns
 
-#### 3.1 - Demonstrate ability to collect data and define Goals 
+### 4.1 Demonstrate knowledge of campaign strategy
 
-| Creating and managing goals | [https://docs.acquia.com/lift/personalize/goals/](https://docs.acquia.com/lift/personalize/goals/) |
-| :--- | :--- |
+## Section 5.0 Reporting
 
+### 5.1 Demonstrate knowledge of basic reporting capabilities
 
-#### 3.2 - Demonstrate ability to understand and use Profile data \(People tab\) 
+## Section 6.0 Campaign Factory
 
-| Examining visitor information | [https://docs.acquia.com/lift/personalize/person/](https://docs.acquia.com/lift/personalize/person/) |
-| :--- | :--- |
+### 6.1 Demonstrate ability to manage multiple Campaign Studio instances
 
+### 6.2 Demonstrate understanding of Campaign Factory's value
 
-#### 3.3 - Demonstrate ability to define and use Segments 
+## Section 7.0 Value (Personalization)
 
-| Creating and managing segments | [https://docs.acquia.com/lift/personalize/segment/](https://docs.acquia.com/lift/personalize/segment/) |
-| :--- | :--- |
+### 7.1 Demonstrate understanding of Campaign Studio's personalization capabilities
 
+### 7.2 Demonstrate understanding of the value of marketing automation
 
-#### 3.4 - Demonstrate ability to configure and manage Campaigns 
-
-| Using campaigns in Personalization | [https://docs.acquia.com/lift/personalize/campaigns/](https://docs.acquia.com/lift/personalize/campaigns/) |
-| :--- | :--- |
-
-
-#### 3.5 - Demonstrate understanding of Analytics provided by Acquia Personalization \(Analyze\) 
-
-| Using reports and dashboards in Profile Manager | [https://docs.acquia.com/lift/profile-mgr/analytics/dashboards/](https://docs.acquia.com/lift/profile-mgr/analytics/dashboards/) |
-| :--- | :--- |
-
-
-#### 3.6 - Demonstrate ability to configure Acquia Personalization \(Configure tab\)
-
-| Configuring personalization settings | [https://docs.acquia.com/lift/personalize/data-mapping/](https://docs.acquia.com/lift/personalize/data-mapping/) |
-| :--- | :--- |
-| Connecting Content Hub | [https://docs.acquia.com/lift/personalize/content-hub/](https://docs.acquia.com/lift/personalize/content-hub/) |
-
-### Domain 4.0 Experience Builder / Visual Editor 
-
-#### 4.1 - Demonstrate ability to configure Slots 
-
-| Creating slots in Experience Builder | [https://docs.acquia.com/lift/personalize/slots/](https://docs.acquia.com/lift/personalize/slots/) |
-| :--- | :--- |
-
-
-#### 4.2 - Demonstrate ability to define Rules
-
-| Creating rules in Acquia Personalization | [https://docs.acquia.com/lift/personalize/rule/](https://docs.acquia.com/lift/personalize/rule/) |
-| :--- | :--- |
-
-
+### 7.3 Demonstrate knowledge of dynamic web content
