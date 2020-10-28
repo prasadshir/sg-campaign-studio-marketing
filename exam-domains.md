@@ -2,7 +2,7 @@
 
 ## Exam Domains
 
-Note: This exam Blueprint includes topics/domains and test objectives to help guide the test taker. They should not be construed as a comprehensive listing of all of the content on this examination.  
+Note: This exam Blueprint includes topics/domains and test objectives to help guide the test taker. They should not be construed as a comprehensive listing of all of the content on this examination.
 ****
 
 | **Domain** | **% of Questions** |
@@ -13,41 +13,55 @@ Note: This exam Blueprint includes topics/domains and test objectives to help gu
 | 4.0 Experience Builder / Visual Editor | 20% |
 | TOTAL | 100% |
 
+| **Domain** | **Number  of Questions** |
+| :--- | :--- |
+| 1.0 Instance Configuration | 4 |
+| 2.0 Data Management | 8
+| 3.0 Content, Components and Channels | 11 |
+| 4.0 Campaigns | 4 |
+| 5.0 Reporting | 3 |
+| 6.0 Campaign Factory | 4 |
+| 7.0 Value (Personalization) | 6 |
+| TOTAL | 40 |
+
 ## Content
 
-### Domain 1.0 Fundamental Personalization Concepts 
+### Section 1.0 Instance Configuration
 
-1.1 - Demonstrate understanding of fundamental concepts of website personalization 
+1.1 Demonstrate knowledge of basic setup requirements for a Campaign Studio instance
 
-1.2 - Demonstrate understanding of benefits and limitations of personalization 
+### Section 2.0 Data Management
 
-### Domain 2.0 Installation and Initial Configuration 
+2.1 Demonstrate ability to maintain clean lists
+2.2 Demonstrate knowledge of data tables
+2.3 Demonstrate ability to build segments
 
-2.1 - Demonstrate ability to install Content Hub and ensure content readiness for personalization 
+### Section 3.0 Content, Components and Channels
 
-2.2 - Demonstrate ability to install Acquia Personalization and setup data collection 
+3.1 Demonstrate knowledge of assets
+3.2 Demonstrate knowledge of forms
+3.3 Demonstrate knowledge of landing pages
+3.4 Demonstrate ability to build effective & deliverable emails
+3.5 Demonstrate knowledge of other channels usable with Campaign Studio
 
-2.3 - Demonstrate understanding of architectural considerations for third party integrations 
+### Section 4.0 Campaigns
 
-### Domain 3.0 Profile Manager / Campaign Builder 
+4.1 Demonstrate knowledge of campaign strategy
 
-3.1 - Demonstrate ability to collect data and define Goals 
+### Section 5.0 Reporting
 
-3.2 - Demonstrate ability to understand and use Profile data \(People tab\) 
+5.1 Demonstrate knowledge of basic reporting capabilities
 
-3.3 - Demonstrate ability to define and use Segments 
+### Section 6.0 Campaign Factory
 
-3.4 - Demonstrate ability to configure and manage Campaigns 
+6.1 Demonstrate ability to manage multiple Campaign Studio instances
+6.2 Demonstrate understanding of Campaign Factory's value
 
-3.5 - Demonstrate understanding of Analytics provided by Acquia Personalization \(Analyze\) 
+### Section 7.0 Value (Personalization)
 
-3.6 - Demonstrate ability to configure Acquia Personalization \(Configure tab\)
-
-### Domain 4.0 Experience Builder / Visual Editor 
-
-4.1 - Demonstrate ability to configure Slots 
-
-4.2 - Demonstrate ability to define Rules
+7.1 Demonstrate understanding of Campaign Studio's personalization capabilities
+7.2 Demonstrate understanding of the value of marketing automation
+7.3 Demonstrate knowledge of dynamic web content
 
 ![](.gitbook/assets/inner-page-footer.png)
 

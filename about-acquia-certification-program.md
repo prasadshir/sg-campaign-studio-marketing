@@ -45,6 +45,8 @@ These are the available Certification Exams for the Acquia Platform:
 | Acquia Cloud Pro |
 | Acquia Site Factory Pro |
 | Acquia Personalization Pro |
+| Acquia Site Studio Site Builder Pro |
+| Acquia Campaign Studio Marketing Pro |
 
 ![](.gitbook/assets/inner-page-footer.png)
 

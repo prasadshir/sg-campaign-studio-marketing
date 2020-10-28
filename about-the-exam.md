@@ -2,7 +2,7 @@
 
 ## Key Information
 
-**Exam Name:** Acquia Certified Personalization Pro
+**Exam Name:** Acquia Certified Campaign Studio Marketing Pro
 
 **Exam Duration:** 60 minutes
 
@@ -12,13 +12,13 @@
 
 ## About the Exam
 
-The purpose of this exam is to validate the skills and knowledge of developers, digital marketing professionals and architects in the area of designing, implementing and maintaining personalization campaigns using Acquia Personalization.
+This exam is designed to validate skills and knowledge of developers, digital marketing professionals and architects in the area of designing, implementing and maintaining Marketing Campaigns using Acquia Campaign Studio suite of products
 
 This exam validates a candidate’s ability to:
 
-* Understand the features provided by Acquia Personalization. 
-* Configure Acquia Personalization suite of products for building personalization campaigns. 
-* Understand and implement Acquia Personalization personalization best practices.
+* Understand the features and functionality provided by Acquia Campaign Studio Suite of products.
+* Install and Configure Acquia Campaign Studio environment on new or existing websites.
+* Configure, run and manage marketing campaigns using Acquia Campaign Studio.
 
 **Register for the Exam**
 
