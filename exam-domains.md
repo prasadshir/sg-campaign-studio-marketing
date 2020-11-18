@@ -3,17 +3,16 @@
 ## Exam Domains
 
 Note: This exam Blueprint includes topics/domains and test objectives to help guide the test taker. They should not be construed as a comprehensive listing of all of the content on this examination.
-****
 
 | **Domain** | **Number of Questions** |
 | :--- | :--- |
 | 1.0 Instance Configuration | 4 |
-| 2.0 Data Management | 8
+| 2.0 Data Management | 8 |
 | 3.0 Content, Components and Channels | 11 |
 | 4.0 Campaigns | 4 |
 | 5.0 Reporting | 3 |
 | 6.0 Campaign Factory | 4 |
-| 7.0 Value (Personalization) | 6 |
+| 7.0 Value \(Personalization\) | 6 |
 | TOTAL | 40 |
 
 ## Content
@@ -24,17 +23,11 @@ Note: This exam Blueprint includes topics/domains and test objectives to help gu
 
 ### Section 2.0 Data Management
 
-2.1 Demonstrate ability to maintain clean lists
-2.2 Demonstrate knowledge of data tables
-2.3 Demonstrate ability to build segments
+2.1 Demonstrate ability to maintain clean lists 2.2 Demonstrate knowledge of data tables 2.3 Demonstrate ability to build segments
 
 ### Section 3.0 Content, Components and Channels
 
-3.1 Demonstrate knowledge of assets
-3.2 Demonstrate knowledge of forms
-3.3 Demonstrate knowledge of landing pages
-3.4 Demonstrate ability to build effective & deliverable emails
-3.5 Demonstrate knowledge of other channels usable with Campaign Studio
+3.1 Demonstrate knowledge of assets 3.2 Demonstrate knowledge of forms 3.3 Demonstrate knowledge of landing pages 3.4 Demonstrate ability to build effective & deliverable emails 3.5 Demonstrate knowledge of other channels usable with Campaign Studio
 
 ### Section 4.0 Campaigns
 
@@ -46,14 +39,11 @@ Note: This exam Blueprint includes topics/domains and test objectives to help gu
 
 ### Section 6.0 Campaign Factory
 
-6.1 Demonstrate ability to manage multiple Campaign Studio instances
-6.2 Demonstrate understanding of Campaign Factory's value
+6.1 Demonstrate ability to manage multiple Campaign Studio instances 6.2 Demonstrate understanding of Campaign Factory's value
 
-### Section 7.0 Value (Personalization)
+### Section 7.0 Value \(Personalization\)
 
-7.1 Demonstrate understanding of Campaign Studio's personalization capabilities
-7.2 Demonstrate understanding of the value of marketing automation
-7.3 Demonstrate knowledge of dynamic web content
+7.1 Demonstrate understanding of Campaign Studio's personalization capabilities 7.2 Demonstrate understanding of the value of marketing automation 7.3 Demonstrate knowledge of dynamic web content
 
 ![](.gitbook/assets/inner-page-footer.png)
 

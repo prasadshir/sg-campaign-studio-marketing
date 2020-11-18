@@ -22,7 +22,7 @@ This exam validates a candidate’s ability to:
 
 **Register for the Exam**
 
-\*\*\*\*[**https://www.webassessor.com/acquia/**](https://www.webassessor.com/acquia/) ****
+\*\*\*\*[**https://www.webassessor.com/acquia/**](https://www.webassessor.com/acquia/) _\*\*_
 
 ![](.gitbook/assets/inner-page-footer.png)
 

@@ -38,10 +38,11 @@
 
 ### 6.2 Demonstrate understanding of Campaign Factory's value
 
-## Section 7.0 Value (Personalization)
+## Section 7.0 Value \(Personalization\)
 
 ### 7.1 Demonstrate understanding of Campaign Studio's personalization capabilities
 
 ### 7.2 Demonstrate understanding of the value of marketing automation
 
 ### 7.3 Demonstrate knowledge of dynamic web content
+
