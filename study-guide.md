@@ -4,6 +4,10 @@
 
 ### 1.1 Demonstrate knowledge of basic setup requirements for a Campaign Studio instance
 
+| Topic | Link |
+| :--- | :--- |
+| Campaign studio settings | [https://docs.acquia.com/campaign-studio/settings/](https://docs.acquia.com/campaign-studio/settings/) |
+
 ## Section 2.0 Data Management
 
 ### 2.1 Demonstrate ability to maintain clean lists
@@ -14,9 +18,9 @@
 
 ### 2.2 Demonstrate knowledge of data tables
 
-|  |  |
+| Topic | Link |
 | :--- | :--- |
-
+| Contact management | [https://docs.acquia.com/campaign-studio/contact-management/contacts/](https://docs.acquia.com/campaign-studio/contact-management/contacts/) |
 
 ### 2.3 Demonstrate ability to build segments
 
@@ -87,7 +91,15 @@
 
 ### 7.1 Demonstrate understanding of Campaign Studio's personalization capabilities
 
+| Topic | Link |
+| :--- | :--- |
+| Components | [https://docs.acquia.com/campaign-studio/components/](https://docs.acquia.com/campaign-studio/components/) |
+
 ### 7.2 Demonstrate understanding of the value of marketing automation
 
 ### 7.3 Demonstrate knowledge of dynamic web content
+
+| Topic | Link |
+| :--- | :--- |
+| Dynamic web content | [https://docs.acquia.com/campaign-studio/components/dynamic-web-content/](https://docs.acquia.com/campaign-studio/components/dynamic-web-content/) |
 
