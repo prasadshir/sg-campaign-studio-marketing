@@ -25,14 +25,14 @@ The key benefits for **organizations** building Drupal solutions are:
 
 ### Drupal Developer Certification
 
-Acquia offers technical Certification in Drupal 7 and Drupal 8, in four competencies each:
+Acquia offers technical Certification in Drupal 7, Drupal 8 and Drupal 9 in four competencies each:
 
-| Drupal 8 | Drupal 7 |
-| :--- | :--- |
-| Acquia Certified Drupal 8 Site Builder | Acquia Certified Drupal 7 Site Builder |
-| Acquia Certified Drupal 8 Developer | Acquia Certified Drupal 7 Developer |
-| Acquia Certified Drupal 8 Front End Specialist | Acquia Certified Drupal 7 Front End Specialist |
-| Acquia Certified Drupal 8 Back End Specialist | Acquia Certified Drupal 7 Back End Specialist |
+| Exam | Drupal 9 | Drupal 8 | Drupal 7 |
+| :--- | :--- | :--- | :--- |
+| Acquia Certified Drupal Site Builder | ✓ | ✓ | ✓ |
+| Acquia Certified Drupal Developer | ✓ | ✓ | ✓ |
+| Acquia Certified Drupal Front end Specialist | Coming Soon | ✓ | ✓ |
+| Acquia Certified Drupal Back end Specialist | Coming Soon | ✓ | ✓ |
 
 ### Acquia Platform Certification
 
