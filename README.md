@@ -6,7 +6,7 @@ In this guide we'll explain the exam Blueprint, break down the knowledge domains
 
 You'll find helpful steps to prepare for the exam as well as links to further resources for study and preparation.‌
 
-Date Published: Oct 30, 2020
+Date Published: Dec 17, 2020
 
 Author: Prasad Shirgaonkar, Global Certification Program Manager, Acquia
 
