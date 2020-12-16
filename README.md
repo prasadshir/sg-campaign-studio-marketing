@@ -1,4 +1,4 @@
-# EXAM STUDY GUIDE: ACQUIA CERTIFIED PERSONALIZATION PRO
+# EXAM STUDY GUIDE: ACQUIA CERTIFIED CAMPAIGN STUDIO MARKETING PRO
 
 **This is the study guide for the Acquia Certified Campaign Studio Marketing Pro Examination.**
 

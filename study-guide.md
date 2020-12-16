@@ -73,10 +73,6 @@
 
 ### 5.1 Demonstrate knowledge of basic reporting capabilities
 
-| Topic | Link |
-| :--- | :--- |
-| Reports | [https://docs.mautic.org/en/reports](https://docs.mautic.org/en/reports) |
-
 ## Section 6.0 Campaign Factory
 
 ### 6.1 Demonstrate ability to manage multiple Campaign Studio instances
@@ -100,10 +96,6 @@
 | Components | [https://docs.acquia.com/campaign-studio/components/](https://docs.acquia.com/campaign-studio/components/) |
 
 ### 7.2 Demonstrate understanding of the value of marketing automation
-
-| Topic | Link |
-| :--- | :--- |
-| Marketing Automation benefits | [https://docs.acquia.com/campaign-studio/](https://docs.acquia.com/campaign-studio/) |
 
 ### 7.3 Demonstrate knowledge of dynamic web content
 
