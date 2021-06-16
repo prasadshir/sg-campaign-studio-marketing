@@ -31,8 +31,8 @@ Acquia offers technical Certification in Drupal 7, Drupal 8 and Drupal 9 in four
 | :--- | :--- | :--- | :--- |
 | Acquia Certified Drupal Site Builder | ✓ | ✓ | ✓ |
 | Acquia Certified Drupal Developer | ✓ | ✓ | ✓ |
-| Acquia Certified Drupal Front end Specialist | Coming Soon | ✓ | ✓ |
-| Acquia Certified Drupal Back end Specialist | Coming Soon | ✓ | ✓ |
+| Acquia Certified Drupal Front end Specialist | ✓ | ✓ | ✓ |
+| Acquia Certified Drupal Back end Specialist | ✓ | ✓ | ✓ |
 
 ### Acquia Platform Certification
 
